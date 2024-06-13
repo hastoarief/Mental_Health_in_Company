@@ -8,6 +8,8 @@ import scipy.stats as ss
 from collections import Counter
 from collections import Counter
 
+#aku anak sehat
+
 
 def conditional_entropy(x, y):
     """
